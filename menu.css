@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+}
+.fastfood{
+    text-align: right;
+   
+    color:white
+}
+.head:hover{
+
+	color:white;
+	
+}
+h1{
+    text-align: center;
+    font-size: 70px;
+}
+p{
+    font-size: 40px;
+}
+.maincourse{
+    
+    color:white
+}
+MAIN {
+	text-align: center;
+	position:fixed;
+	display:flex;
+}
+
+.navmenu {
+	display:flex;
+}
+.navmenu a{
+	align-items: center;
+	color:#2c2c2c;
+	font-size:16px;
+	font-weight: 400;
+	padding: 10px 20px;
+	transition: all .42 ease;
+}
